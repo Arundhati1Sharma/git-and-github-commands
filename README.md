@@ -8,6 +8,7 @@
     </pre>
 
   <li>
+      <p>Add file contents to the index<p>
     <pre>
     <code>git checkout -b</code>
     </pre>
