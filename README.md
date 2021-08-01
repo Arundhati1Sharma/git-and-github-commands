@@ -1,11 +1,12 @@
 # Git & Github Commands
-<ul>
+<ol>
   <li>
+    <p>Add file contents to the index<p>
+  </li>
     <pre>
     <code>git add</code>
     </pre>
-    <p>Add file contents to the index<p>
-  </li>
+
   <li>
     <pre>
     <code>git checkout -b</code>
@@ -36,4 +37,4 @@
     <code>git checkout -b</code>
     </pre>
   </li>
-</ul>
+</ol>
