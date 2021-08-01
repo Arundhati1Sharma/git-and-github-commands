@@ -1,2 +1,3 @@
-# git-and-github-commands
-Basic git and github commands.
+# Git & Github Commands
+
+<code>git checkout -b</code>
