@@ -43,4 +43,40 @@
     <code>git diff</code>
     </pre>
   </li>
+  <li>
+    <p>Create an empty Git repository or reinitialize an existing one</p>
+    <pre>
+    <code>git init</code>
+    </pre>
+  </li>
+  <li>
+    <p>Join two or more development histories together</p>
+    <pre>
+    <code>git merge/code>
+    </pre>
+  </li>
+  <li>
+    <p>Show the working tree status</p>
+    <pre>
+    <code>git status/code>
+    </pre>
+  </li>
+  <li>
+    <p>Switch branches</p>
+    <pre>
+    <code>git switch/code>
+    </pre>
+  </li>
+  <li>
+    <p>Manage set of tracked repositories</p>
+    <pre>
+    <code>git remote/code>
+    </pre>
+  </li>
+  <li>
+    <p>Display help information about Git</p>
+    <pre>
+    <code>git help/code>
+    </pre>
+  </li>
 </ol>
